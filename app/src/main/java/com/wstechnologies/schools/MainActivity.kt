@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         findViewById<TextView>(R.id.txt3).setText("Hayet : feature3")
         findViewById<TextView>(R.id.txt5).setText("Haroun : feature5")
         findViewById<TextView>(R.id.txt6).setText("Haroun : feature6")
-        findViewById<TextView>(R.id.txt6).setText("Hayet : feature7")
+        findViewById<TextView>(R.id.txt7).setText("Hayet : feature7")
+        findViewById<TextView>(R.id.txt8).setText("Haroun : feature8")
     }
 }
